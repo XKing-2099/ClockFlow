@@ -1,0 +1,5 @@
+// Public defaults. Keep personal signing overrides in the ignored local file.
+DEVELOPMENT_TEAM =
+PRODUCT_BUNDLE_IDENTIFIER = com.example.ClockFlow
+
+#include? "Signing.local.xcconfig"

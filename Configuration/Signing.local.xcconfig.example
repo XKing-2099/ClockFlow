@@ -1,0 +1,4 @@
+// Copy to Signing.local.xcconfig (ignored by Git) before signing for your iPhone.
+// Replace these values with your own Apple development team and unique bundle ID.
+DEVELOPMENT_TEAM = YOUR_TEAM_ID
+PRODUCT_BUNDLE_IDENTIFIER = com.yourname.ClockFlow
