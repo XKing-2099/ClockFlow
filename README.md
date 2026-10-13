@@ -2,7 +2,7 @@
 
 参考 [Humans since 1982 · ClockClock 24](https://www.humanssince1982.com/collections/collectibles) 的指针组合与动态变化效果，自行实现的 iOS 时钟：24 个钟面、48 根指针，在每分钟切换时旋转并组成当前时间。
 
-因为觉得这个效果很好玩，想自己做出来在 iPhone 上体验，所以有了这个个人研究与学习项目。
+因为觉得这个效果很好看，想在 iPhone 上进行熄屏显示模拟，所以有了这个个人研究与学习项目。由于 iPhone 熄屏显示无法接入动画，因此通过app调低亮度实现了这个功能。 
 
 ![ClockFlow 沉浸横屏预览](Previews/immersive-landscape.png)
 
